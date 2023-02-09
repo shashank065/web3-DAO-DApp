@@ -40,7 +40,7 @@ const Header = () => {
             >
               <FaUserSecret className="cursor-pointer" size={25} />
               <span className="invisible md:visible dark:text-gray-300">
-                Dominion
+               FORALL
               </span>
             </Link>
 
