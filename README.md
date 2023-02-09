@@ -4,7 +4,9 @@ Web3.0 DAO with React, Solidity, Node , Web3js  , Tailwind CSS
 
 ![DAO Project](./screenshots/0.gif)
 <center><figcaption> DAO</figcaption></center>
-
+A DAO is a governance structure for web3 projects. A DAO typically has a token that allows holders to anonymously vote on what direction the project should take and what changes will be made.
+DAOs are programmed to operate autonomously through smart contracts, and there is no hierarchy between the members involved. All decisions in a DAO are usually made by voting, where network members have to reach a consensus for a proposal to be adopted.
+As decentralization is at the heart of web3, some projects have abandoned traditional business models in favour of DAOs. DAOs allow projects to pay their developers, give incentives to the community and make critical decisions in a decentralised process.
 ## Technology
 
 This demo uses:
