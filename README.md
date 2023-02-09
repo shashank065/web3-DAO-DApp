@@ -54,7 +54,7 @@ Questions about running the demo? [Open an issue](https://github.com/Daltonic/do
 
 ## Useful links
 
-- 🏠 [Website](https://daltonic.github.io/)
+
 - ⚽ [Metamask](https://metamask.io/)
 - 🚀 [Remix Editor](https://remix.ethereum.org/)
 - 💡 [Truffle](https://trufflesuite.com/)
@@ -64,4 +64,3 @@ Questions about running the demo? [Open an issue](https://github.com/Daltonic/do
 - 👀 [Web3Js](https://docs.ethers.io/v5/)
 - 🎅 [Faucet](https://faucets.chain.link/rinkeby)
 - 🤖 [Ganache](https://trufflesuite.com/ganache/index.html)
-- ✨ [Live Demo](https://dominiondao.web.app/)
