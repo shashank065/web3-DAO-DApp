@@ -50,12 +50,6 @@ To run the demo follow these steps:
 3. Run the app using `yarn start`
 <br/>
 
-If your confuse about the installation, check out this **TUTORIAL** to see how you should run it.
-
-Questions about running the demo? [Open an issue](https://github.com/Daltonic/dominionDAO/issues). We're here to help ✌️
-
-## Useful links
-
 
 - ⚽ [Metamask](https://metamask.io/)
 - 🚀 [Remix Editor](https://remix.ethereum.org/)
