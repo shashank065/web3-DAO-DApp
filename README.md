@@ -18,6 +18,7 @@ This demo uses:
 - Tailwind CSS
 - Ganache-CLI
 - Solidity
+- NodeJs
 - Web3js
 - Faucet
 
